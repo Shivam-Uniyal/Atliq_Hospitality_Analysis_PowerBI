@@ -25,7 +25,8 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 
 
-# Overall Analysis View
+# Overall Analysis & Home View
+![image](https://github.com/user-attachments/assets/eb0fec5b-4b78-44a4-b975-84b7e67436c7)
 
 
 
