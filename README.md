@@ -24,6 +24,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 
 # Data Model
+![image](https://github.com/user-attachments/assets/84f79202-e4eb-4c40-a20a-6f61d27cfedd)
 
 
 
