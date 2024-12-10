@@ -2,7 +2,7 @@
 
 As part of the codebasics resume challenge, I have worked on this analysis project.
 
-[Link to Interactive Dashboard][[https://app.powerbi.com/view?r=eyJrIjoiNDAzY2QzNTYtZDhlZS00MmQyLTk5NjktNjBhYjUxMTRiMTFmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9]
+[Link to Interactive Dashboard]([https://app.powerbi.com/view?r=eyJrIjoiNDAzY2QzNTYtZDhlZS00MmQyLTk5NjktNjBhYjUxMTRiMTFmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9])
 
 # Problem statement
 
