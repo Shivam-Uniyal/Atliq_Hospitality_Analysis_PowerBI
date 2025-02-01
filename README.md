@@ -1,4 +1,4 @@
-# Atlas_Hospitality_Analysis_PowerBI
+# AtliQ_Grands_Hospitality_Analysis_PowerBI
 
 As part of the codebasics data analytics 3.0 bootcamp, I have worked on this analysis project.
 
